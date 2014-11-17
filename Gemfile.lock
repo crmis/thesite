@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    newrelic_rpm (3.9.6.257)
+    newrelic_rpm (3.9.7.266)
     rack (1.5.2)
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  newrelic_rpm
-  rack
+  newrelic_rpm (~> 3.9.7.266)
+  rack (~> 1.5.2)
