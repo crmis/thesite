@@ -1,5 +1,3 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
-gem 'rack', '~> 1.5.2'
-
-gem 'newrelic_rpm', '~> 3.9.7.266'
+gem 'rack', '~> 1.6.0'
