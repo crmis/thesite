@@ -1,2 +1,6 @@
-#Ignore cloud9.io folder
+## Ignore IDE created folders
 .c9/
+.idea/
+
+## Check in when deploying
+# Gemfile.lock
